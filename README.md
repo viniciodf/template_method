@@ -21,4 +21,3 @@ O Template Method pode ser reconhecido por métodos comportamentais que já poss
 Exempos de utilizacao:
 java.io.InputStream
 java.util.AbstractList
-java.util.AbstractList
