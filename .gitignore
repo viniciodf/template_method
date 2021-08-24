@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/template_method.iml
+/.idea/
